@@ -1,1 +1,3 @@
-<?php header("location: frontend"); ?>
+<?php header("location: frontend"); 
+// halaman awal
+?>
